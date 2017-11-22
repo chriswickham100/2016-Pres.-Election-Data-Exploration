@@ -1,7 +1,7 @@
 setwd("/Users/chriswickham/Desktop/R Working Directory")
 getwd()
 
-# Research questions: What information can we glean from data representing individual 
+# Research question: What information can we glean from data representing individual 
 # contributions to the 2016 presidential race? 
 
 # Question 1 
